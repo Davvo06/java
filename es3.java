@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mcdeuc {
+public class es3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
